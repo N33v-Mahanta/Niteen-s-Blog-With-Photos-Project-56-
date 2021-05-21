@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: fantasy;
+    background-color: beige;
+}
+
+#image1 {
+    border: 10px solid #CCCCCC;
+    border-radius: 50px;
+}
+
+#image2 {
+    border: 10px solid #CCCCCC;
+    border-radius: 50px;
+}
+
+#image3 {
+    border: 10px solid #CCCCCC;
+    border-radius: 50px;
+}
+
+#image4 {
+    border: 10px solid #CCCCCC;
+    border-radius: 50px;
+}
